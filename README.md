@@ -66,7 +66,7 @@
 
  ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
    <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1️⃣</h3>
-    <a href="https://benpair.onrender.com">
+    <a href="https://session.apis-nothing.xyz">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
 </div>
@@ -79,7 +79,7 @@
 
  ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
    <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2️⃣</h3>
-    <a href="https://webpairben-offcial.onrender.com">
+    <a href="https://session.apis-nothing.xyz">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-black?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
 </div>
